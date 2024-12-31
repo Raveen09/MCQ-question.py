@@ -41,7 +41,7 @@ class MockTest:
         # Here you can add AI-driven feedback logic
         print("Feedback: Analyze your performance based on your answers.")
 
-# Sample questions for Paper 1 and Paper 2
+# Samplquestions for Paper 1 and Paper 2
 paper1_questions = [
     "What is the capital of France?",
     "Who wrote 'Hamlet'?",
